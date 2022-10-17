@@ -22,8 +22,6 @@ console.log('invalid octal');
 let b = 058;
 console.log(b);
 
-
-
 // ES6
 console.log(`ES6에서의 8진법 표기`);
 let es6_a = 0o51;
@@ -31,5 +29,3 @@ console.log(es6_a);
 
 // let es6_b = 0o58;
 // console.log(es6_b);
-
-
